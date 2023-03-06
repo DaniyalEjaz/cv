@@ -1,0 +1,35 @@
+body {
+    background-color: #e6e6fa;
+    
+    }
+
+hr { 
+    border-color:grey;
+    border-style: dotted none none;
+    width: 100px;
+    border-width: 8px;
+
+ }
+img {
+    width: 200px;
+}
+
+h1 {
+ color: purple;
+ font-family: ;
+
+
+}
+h3 {
+ color: purple;
+ font-style: oblique;
+
+}
+.circular {
+    border-radius: 10%;
+}
+.name
+ {
+    font-size: 50px;
+    color: darkslateblue;
+}
