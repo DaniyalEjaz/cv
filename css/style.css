@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    background-color:#B8DAEA;
+}
+
+    
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    background-color: azure;
+
+}
+hr {
+    border-color:grey;
+    border-style: dotted none none;
+    width: 150px;
+    border-width: 10px;
+}
+ 
+
+p {
+    text-align: center;
+}
+.top-container {
+    background-color: rgb(105, 184, 210);
+    padding-top: 100px;
+    position: relative;
+}
+
+.bottom-cloud  {
+  position: relative;
+  bottom: 300px;
+  left: 150px;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 400px;
+
+}
+.dani {
+    border-radius: 100%;
+    height: 300px;
+}
+.csr {
+    height: 120px;
+}   
+.coach {
+    height: 120px;
+}
+.sales {
+    height: 120px;
+}
+h2 {
+    display: inline-block;
+    background-color: rgb(107, 154, 154);
+    width: 350px;
+} 
+.gmail {
+    height: 80px;
+}
+.insta {
+    height: 80px;
+}
+.facebook {
+    height: 80px;
+}
+.linked {
+    height: 80px;
+}
+.ibex {
+    background-color: #B8DAEA;
+}
+.mind {
+    background-color: #B8DAEA;
+}
